@@ -1,4 +1,4 @@
-<h1 align="center"><b> Hello, my name is Express Eat. Ready to give you some delectable meals <b></h1>
+<h1 align="center"><b> Hello, my name is food hub. Ready to give you some delectable meals <b></h1>
 <h1 align="center"><a href='https://tianmeds.github.io/ExpressEat/'>Express Eat</a></h1>
 <p align="center">This is my Recipe Website that i developed. </p>
 <br>
